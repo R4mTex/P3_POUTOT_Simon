@@ -1,5 +1,3 @@
-# P3_POUTOT_Simon
-
 # OC_Projet_3 Labyrinthe
 
 Le programme est un jeu où l'on doit récupérer certains objets dans un labyrinthe afin de pouvoir sortir.
@@ -36,7 +34,7 @@ Il est également nécessaire d'installer les bibliothèques indispensables au b
 
 Une fois la console placée dans le dossier du programme, il suffit de l'exécuter avec la commande : 
 
-```python3 main.py```
+```python main.py```
 
 ## Fabriqué avec
 [VisualStudioCode](https://code.visualstudio.com/) - Editeur de textes
