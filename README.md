@@ -26,7 +26,7 @@ mac/linux : ```source env/bin/activate```
 
 Pour en apprendre plus sur les environnements virtuels, vous avez toute la documentation à cette adresse : [Documentation Python](https://docs.python.org/fr/3.6/tutorial/venv.html/)
 
-Il est également nécessaire d'installer les bibliothèques indispensables au bon fonctionnement du programme. Celles-ci sont listées dans le document ```requirement.txt``` et leur installation se fait via la commande suivante exécutée dans l'environnement virtuel que vous venez de créer :
+Il est également nécessaire d'installer les bibliothèques indispensables au bon fonctionnement du programme. Celles-ci sont listées dans le document ```requirements.txt``` et leur installation se fait via la commande suivante exécutée dans l'environnement virtuel que vous venez de créer :
 
 ```pip install -r requirements.txt```
 
