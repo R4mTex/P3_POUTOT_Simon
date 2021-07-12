@@ -4,7 +4,7 @@ Le programme est un jeu où l'on doit récupérer certains objets dans un labyri
 
 ## Premièrement 
 
-Ces consignes vont vous permettre d'obtenir une copie de mon projet et de le tester sur votre machine.
+Ces consignes vont vous permettre d'obtenir une copie de mon projet et de le tester avec votre console sur votre machine.
 
 ### Pré-requis 
 
